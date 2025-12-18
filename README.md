@@ -30,5 +30,4 @@ Source: Kaggle (Public Dataset)
 - `E-comm-sales.csv` : Public Kaggle dataset
 
 ## Author
-Vivek Gorasiya  
-MSc Business Data Analytics
+GORASIYA, Vivekkumar Kishorbhai
