@@ -28,6 +28,8 @@ Source: Kaggle (Public Dataset)
 ## Repository Structure
 - `A3668_Vivek_Business_data_Analytics.ipynb` : Main analysis notebook
 - `E-comm-sales.csv` : Public Kaggle dataset
+- `product_details.csv` : Public Kaggle dataset
+- `customer_details.csv` : Public Kaggle dataset
 
 ## Author
 GORASIYA, Vivekkumar Kishorbhai
